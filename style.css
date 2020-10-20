@@ -1,0 +1,19 @@
+div{
+	background: red;
+}
+.patrat{
+	background: blue !important;
+}
+#rotungit{
+	background: #ff0;
+	border-radius: 10px;
+}
+*{
+	background: #ff0;
+}
+#circle{
+	background: pink;
+	width: 250px;
+	height: 250px;
+	border-radius: 50%;
+}
